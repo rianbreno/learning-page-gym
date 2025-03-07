@@ -22,7 +22,7 @@ Este repositório contém o código-fonte do site **Life Fit**, um site instituc
 
 🔹 **UNIDADES**
 
-✅ Mostra as unidades das academias, localização e horário de funcionamento.
+✅ Exibe as unidades das academias, suas localizações e os respectivos horários de funcionamento.
 
   ![life-fit3](https://github.com/user-attachments/assets/8438830e-cc6c-40b2-8bea-898a392bc376)
   
